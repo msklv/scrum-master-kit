@@ -10,7 +10,16 @@
  * scrum-poster_preview.jpg
  * Инстурменты Фасилитации.pdf
  * Чек-лист запуска команды.md
- * leancanvasrus-130826053129-phpapp01-thumbnail-4.jpg - По русски
+ * lean-canvas.jpg
+ * Цикл вмешательства.png
+ * Критерии User Story.png
+ * Беклог.png
+ * User Story.png
+ * ValuePropositionCanvas.png
+ * hadi-Цикл.png
+ * ValuePropositionCanvas.png
+ * ЖизненыйЦиклПродуктаИИнструменты.jpg
+
 
 ## Ссылки 
  * https://www.scrumalliance.org
