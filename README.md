@@ -21,6 +21,7 @@
  * ValuePropositionCanvas.png - Шаблон ценностного предложения
  * lean-canvas.jpg - Бережливый шаблон бизнес модели
  * INVEST-UserStory.md - INVEST критерии хорошей User Story
+ * DASA-DEVOPS-COMPETENCE-MODEL.pdf - Модель оценки компетенций DevOps
 
  
  ## Материалы нуждающиеся в переаботке
