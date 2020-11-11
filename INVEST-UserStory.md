@@ -29,4 +29,3 @@
 ### Ссылки на источники
  * https://scrumtrek.ru/
  * https://www.agilealliance.org/glossary/invest
- * https://leadstartup.ru/db/user-story
