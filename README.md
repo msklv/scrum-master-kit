@@ -6,6 +6,10 @@
 
 ## Miro https://miro.com/app/board/o9J_lfHhWjE=/
 
+## Жизненный Цикл Продукта и Интсрументы (Product Life Cycle)
+![ProductLifeCycleAddTools](ProductLifeCycleAddTools.jpg)
+
+
 ## Материалы 
 
  * 2017-Scrum-Guide-Russian.pdf - SCRUM Book
