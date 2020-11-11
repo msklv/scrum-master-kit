@@ -20,16 +20,12 @@
  * InterventionCycle.MD - Цикл вмешательства в конфликтную ситуацию
  * ValuePropositionCanvas.png - Шаблон ценностного предложения
  * lean-canvas.jpg - Бережливый шаблон бизнес модели
+ * INVEST-UserStory.md - INVEST критерии хорошей User Story
 
- 
  
  ## Материалы нуждающиеся в переаботке
-
  * Инстурменты Фасилитации.pdf
- * Критерии User Story.png
- * User Story.png
  * hadi-Цикл.png
- * ЖизненыйЦиклПродуктаИИнструменты.jpg
 
 
 ## Ссылки 
