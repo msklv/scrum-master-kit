@@ -28,6 +28,6 @@
  * hadi-Цикл.png
 
 
-## Ссылки 
+## Ссылки на источники:
  * https://www.scrumalliance.org
  * https://scrumtrek.ru/
