@@ -30,7 +30,8 @@
  * Чек-лист запуска команды
  
 
-## https://github.com/lorabv/awesome-agile
+## Очень неплохая подборка материаалов в GIT формате
+https://github.com/lorabv/awesome-agile
 
 
 
