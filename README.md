@@ -14,19 +14,20 @@
 
  * 2017-Scrum-Guide-Russian.pdf - SCRUM Book
  * scrum-poster_preview.jpg  - Потер про SCRUM
- * Kick-off по Agile.md - Kick-off - последовательность мероприятий по запуску работы команды по Agile
  * DEEPPacklog.MD - Что такое DEEP беклог?
- * LaunchTeamChecklist.md - Чек-лист запуска команды по Agile
  * InterventionCycle.MD - Цикл вмешательства в конфликтную ситуацию
  * ValuePropositionCanvas.png - Шаблон ценностного предложения
  * lean-canvas.jpg - Бережливый шаблон бизнес модели
  * INVEST-UserStory.md - INVEST критерии хорошей User Story
  * DASA-DEVOPS-COMPETENCE-MODEL.pdf - Модель оценки компетенций DevOps
+ * agilemanifesto.md - Agile-манифест разработки программного обеспечения
 
  
  ## Материалы нуждающиеся в переаботке
  * Инстурменты Фасилитации.pdf
  * hadi-Цикл.png
+ * Kick-off - последовательность мероприятий по запуску работы команды
+ * Чек-лист запуска команды
 
 
 ## Ссылки на источники:
