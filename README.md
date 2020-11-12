@@ -19,7 +19,7 @@
  * ValuePropositionCanvas.png - Шаблон ценностного предложения
  * lean-canvas.jpg - Бережливый шаблон бизнес модели
  * INVEST-UserStory.md - INVEST критерии хорошей User Story
- * DASA-DEVOPS-COMPETENCE-MODEL.pdf - Модель оценки компетенций DevOps
+ * DASA-DEVOPS-COMPETENCE-MODEL.pdf - Модель оценки компетенций DevOps (+ Miro)
  * agilemanifesto.md - Agile-манифест разработки программного обеспечения
 
  
@@ -28,8 +28,13 @@
  * hadi-Цикл.png
  * Kick-off - последовательность мероприятий по запуску работы команды
  * Чек-лист запуска команды
+ 
+
+## https://github.com/lorabv/awesome-agile
 
 
-## Ссылки на источники:
+
+### Ссылки на источники видения:
  * https://www.scrumalliance.org
  * https://scrumtrek.ru/
+ * http://www.chernevsky.ru/
