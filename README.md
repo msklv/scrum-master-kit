@@ -25,8 +25,8 @@
 ## Материалы по Фасилитации и Коучингу 
  * [InterventionCycle.MD](InterventionCycle.MD) - Цикл вмешательства в конфликтную ситуацию
  * [Zuzana_Shokhova_fraemwork.png](Zuzana_Shokhova_fraemwork.png) - Zuzana Shokhova fraemwork 
- * [Agile-Coach-Competency-Framework.jpg](Agile-Coach-Competency-Framework.jpg) - 
- * `~` Инстурменты Фасилитации.pdf - Инстументы фасилитации
+ * [Agile-Coach-Competency-Framework.jpg](Agile-Coach-Competency-Framework.jpg) - Agile Coach Competency Framework
+ * `~` Инструменты Фасилитации.pdf - Инструменты  фасилитации
  * `+` Kick-off - последовательность мероприятий по запуску работы команды
  * `+` Чек-лист запуска команды
 
