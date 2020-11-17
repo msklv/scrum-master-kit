@@ -38,8 +38,8 @@
 
 ## Материалы по Бизнес практикам 
  * [ValuePropositionCanvas.png](ValuePropositionCanvas.png) - Шаблон ценностного предложения
- * [lean-canvas.jpg](lean-canvas.jpg) - Бережливый шаблон бизнес модели
- * `+` Целеполагание с помощью OKR
+ * [lean-canvas-rus.jpg](lean-canvas-rus.jpg) - Бережливый шаблон бизнес модели
+ * [okr.md](okr.md) - Суть методики OKR
  * `~` hadi-Цикл.png
  * `+` Cynefin Fraemwork
  * `+` Good_MVP
