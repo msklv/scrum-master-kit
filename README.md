@@ -1,11 +1,10 @@
 # scrum-master-kit
-
 Набор материалов для быстрого старта Agile проекта в крупной компании. 
 Часть материалов не имеет авторства и является предметом коллективного творчества.
 Если вы знаете конкретного автора - прошу делать пул реквесты.
 
 
-## Жизненный Цикл Продукта и Инструменты (Product Life Cycle)
+## Этапы Жизненного Пути Продукта и Инструменты
 ![ProductLifeCycleAddTools](ProductLifeCycleAddTools.jpg)
 
 
@@ -17,7 +16,7 @@
  
 
 ## Материалы по Agile
-* [agile-foundation-poster.pdf](agile-foundation-poster.pdf) - постеры Agile в двух словах» с добавлением идей из Lean 
+* [agile-foundation-poster.pdf](agile-foundation-poster.pdf) - постер Agile в двух словах с добавлением идей из Lean 
 * [agile-product-ownership-poster.pdf](agile-product-ownership-poster.pdf) - постер Гибкое управление продуктом
 * [agilemanifesto.md](agilemanifesto.md) - Agile-манифест разработки программного обеспечения
 * [DEEPPacklog.MD](DEEPPacklog.MD) - Что такое DEEP беклог?
