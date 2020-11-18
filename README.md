@@ -11,7 +11,8 @@
 
 
 ## Материалы по Scrum 
- * [2017-Scrum-Guide-Russian.pdf](2017-Scrum-Guide-Russian.pdf) - SCRUM Book
+ * [2017-Scrum-Guide-Russian.pdf](2017-Scrum-Guide-Russian.pdf) - SCRUM Book 2017
+ * [2020-Scrum-Guide-Russian.pdf](2020-Scrum-Guide-Russian.pdf) - SCRUM Book 2020
  * [scrum-poster_preview.jpg](scrum-poster_preview.jpg)  - Поcтер про SCRUM
  * [scrum-daily-meeting.md](scrum-daily-meeting.md) - Ежедневный Скрам (Scrum Daily Meeting)
  
