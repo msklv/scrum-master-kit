@@ -45,15 +45,20 @@
  * [lean-canvas-rus.jpg](lean-canvas-rus.jpg) - Бережливый шаблон бизнес модели
  * [okr.md](okr.md) - Суть методики OKR
  * `~` [hadi-Цикл.png](hadi-Цикл.png) - HADI Цикл
- * `+` [Cynefin_Fraemwork.jpg](Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
- * `+` [Good_MVP.jpg](Good_MVP.jpg) - Good_MVP
+ * `~` [Cynefin_Fraemwork.jpg](Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
+ * `~` [Good_MVP.jpg](Good_MVP.jpg) - Good_MVP
  * `+` Unit экономика
 
-## Проверка знаний 
- * [questions-at-PM-interviews.md](questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
+## Маштабировнаие гибких подходов 
+ * `+`SAFe
+ * `+`LeSS 
+
+
+
 
 ## Производительность разработчиков (Developer Velocity) включает 46 различных драйверов в 13 измерениях.
 ![Developer-Velocity-46-drivers.jpg](Developer-Velocity-46-drivers.jpg)
+
 
 ## Уровень зрелости Developer Velocity (DV) широко варьируется в зависимости от отрасли
 ![Developer-Velocity-maturity-varies-widely-across-industries.jpg](Developer-Velocity-maturity-varies-widely-across-industries.jpg)
@@ -63,6 +68,9 @@
 ### Источник: [Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf](Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf)
 
 
+
+## Проверка знаний 
+ * [questions-at-PM-interviews.md](questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
 
 ## Неплохая подборка материалов в GIT формате
 https://github.com/lorabv/awesome-agile
