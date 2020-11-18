@@ -21,6 +21,7 @@
 * [DEEPPacklog.MD](DEEPPacklog.MD) - Что такое DEEP беклог?
 * [INVEST-UserStory.md](INVEST-UserStory.md) - INVEST критерии хорошей User Story
 * [smart.md](smart.md) - Что такое Smart задачи
+* [ОличияScrumKanban.jpg](ОличияScrumKanban.jpg) - Оличия Scrum и Kanban
 
 
 ## Материалы по Фасилитации и Коучингу 
@@ -35,18 +36,32 @@
 ## Материалы по Техническим практикам и DevOps
  * [DASA-DEVOPS-COMPETENCE-MODEL.pdf](DASA-DEVOPS-COMPETENCE-MODEL.pdf) - Модель оценки компетенций DevOps (+ Miro)
  * [DoD-DoR-Example.md](DoD-DoR-Example.md) - Примеры DoD и DoR
+ * `+` CI\CD
+ * `+` Git 
 
 
 ## Материалы по Бизнес практикам 
  * [ValuePropositionCanvas.png](ValuePropositionCanvas.png) - Шаблон ценностного предложения
  * [lean-canvas-rus.jpg](lean-canvas-rus.jpg) - Бережливый шаблон бизнес модели
  * [okr.md](okr.md) - Суть методики OKR
- * `~` hadi-Цикл.png
- * `+` Cynefin Fraemwork
- * `+` Good_MVP
+ * `~` [hadi-Цикл.png](hadi-Цикл.png) - HADI Цикл
+ * `+` [Cynefin_Fraemwork.jpg](Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
+ * `+` [Good_MVP.jpg](Good_MVP.jpg) - Good_MVP
+ * `+` Unit экономика
 
 ## Проверка знаний 
  * [questions-at-PM-interviews.md](questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
+
+## Производительность разработчиков (Developer Velocity) включает 46 различных драйверов в 13 измерениях.
+![Developer-Velocity-46-drivers.jpg](Developer-Velocity-46-drivers.jpg)
+
+## Уровень зрелости Developer Velocity (DV) широко варьируется в зависимости от отрасли
+![Developer-Velocity-maturity-varies-widely-across-industries.jpg](Developer-Velocity-maturity-varies-widely-across-industries.jpg)
+
+
+
+[Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf](Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf)
+
 
 
 ## Неплохая подборка материалов в GIT формате
