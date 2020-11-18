@@ -20,6 +20,7 @@
 * [agilemanifesto.md](agilemanifesto.md) - Agile-манифест разработки программного обеспечения
 * [DEEPPacklog.MD](DEEPPacklog.MD) - Что такое DEEP беклог?
 * [INVEST-UserStory.md](INVEST-UserStory.md) - INVEST критерии хорошей User Story
+* [smart.md](smart.md) - Что такое Smart задачи
 
 
 ## Материалы по Фасилитации и Коучингу 
@@ -48,7 +49,7 @@
  * [questions-at-PM-interviews.md](questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
 
 
-## Очень неплохая подборка материалов в GIT формате
+## Неплохая подборка материалов в GIT формате
 https://github.com/lorabv/awesome-agile
 
 
