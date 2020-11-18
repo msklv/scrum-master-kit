@@ -54,6 +54,7 @@
  * `+` SAFe
  * `+` LeSS 
  * `+` Scrum@Scale
+ * [okr.md](okr.md) - Постановка целей по OKR
 
 
 
