@@ -4,7 +4,6 @@
 Часть материалов не имеет авторства и является предметом коллективного творчества.
 Если вы знаете конкретного автора - прошу делать пул реквесты.
 
-## Miro https://miro.com/app/board/o9J_lfHhWjE=/
 
 ## Жизненный Цикл Продукта и Инструменты (Product Life Cycle)
 ![ProductLifeCycleAddTools](ProductLifeCycleAddTools.jpg)
@@ -18,6 +17,8 @@
  
 
 ## Материалы по Agile
+* [agile-foundation-poster.pdf](agile-foundation-poster.pdf) - постеры Agile в двух словах» с добавлением идей из Lean 
+* [agile-product-ownership-poster.pdf](agile-product-ownership-poster.pdf) - постер Гибкое управление продуктом
 * [agilemanifesto.md](agilemanifesto.md) - Agile-манифест разработки программного обеспечения
 * [DEEPPacklog.MD](DEEPPacklog.MD) - Что такое DEEP беклог?
 * [INVEST-UserStory.md](INVEST-UserStory.md) - INVEST критерии хорошей User Story
