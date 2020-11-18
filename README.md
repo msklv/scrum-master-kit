@@ -38,6 +38,7 @@
  * [DoD-DoR-Example.md](DoD-DoR-Example.md) - Примеры DoD и DoR
  * `+` CI\CD
  * `+` Git 
+ * `+` DevOps, DevSecOps
 
 
 ## Материалы по Бизнес практикам 
