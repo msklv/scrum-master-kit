@@ -4,7 +4,7 @@
 Если вы знаете конкретного автора - прошу делать пул реквесты.
 
 
-## Жизненный Цикл Продукта и Инструменты (Product Life Cycle)
+## Этапы Жизненного Пути Продукта и Инструменты
 ![ProductLifeCycleAddTools](ProductLifeCycleAddTools.jpg)
 
 
