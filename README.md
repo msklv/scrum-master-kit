@@ -21,7 +21,7 @@
 * [DEEPPacklog.MD](DEEPPacklog.MD) - Что такое DEEP беклог?
 * [INVEST-UserStory.md](INVEST-UserStory.md) - INVEST критерии хорошей User Story
 * [smart.md](smart.md) - Что такое Smart задачи
-* [ОличияScrumKanban.jpg](ОличияScrumKanban.jpg) - Оличия Scrum и Kanban
+* [ОтличияScrumKanban.jpg](ОличияScrumKanban.jpg) - Отличия Scrum и Kanban
 
 
 ## Материалы по Фасилитации и Коучингу 
@@ -60,7 +60,7 @@
 
 
 
-### [Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf](Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf)
+### Источник: [Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf](Developer-Velocity-How-software-excellence-fuels-business-performance-v4.pdf)
 
 
 
