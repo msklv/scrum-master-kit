@@ -31,7 +31,7 @@
  * [Agile-Coach-Competency-Framework.jpg](Agile-Coach-Competency-Framework.jpg) - Agile Coach Competency Framework
  * [Facilitation-Tools.pdf](Facilitation-Tools.pdf) - Инструменты  фасилитации
  * `+` Kick-off - последовательность мероприятий по запуску работы команды
- * `+` Чек-лист запуска команды
+ * [Checklist-for-launch-team.md](Checklist-for-launch-team.md) - Чек-лист запуска команды
 
 
 ## Материалы по Техническим практикам и DevOps
