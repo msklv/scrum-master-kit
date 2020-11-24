@@ -13,7 +13,9 @@
  * [2020-Scrum-Guide-Russian.pdf](pdf/2020-Scrum-Guide-Russian.pdf) - SCRUM Book 2020
  * [scrum-poster_preview.jpg](docs/scrum-poster_preview.jpg)  - Поcтер про SCRUM
  * [scrum-daily-meeting.md](docs/scrum-daily-meeting.md) - Ежедневный Скрам (Scrum Daily Meeting)
+ * [Scrum-checker.xlsx](excel/Scrum-checker.xlsx) - Scrum-checker
  * `+` Burn Down Chart 
+ 
  
 
 ## Материалы по Agile
@@ -50,7 +52,8 @@
  * `~` [hadi-Цикл.png](docs/hadi-Цикл.png) - HADI Цикл
  * `~` [Cynefin_Fraemwork.jpg](docs/Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
  * `~` [Good_MVP.jpg](docs/Good_MVP.jpg) - Good_MVP
- * `+` Unit экономика
+ * [Unit -economics-map-Digital-October.pdf](pdf/Unit -economics-map-Digital-October.pdf) -  Unit экономика
+ * [Calc-Unit-Economics.xlsx](excel/Calc-Unit-Economics.xlsx) - Unit экономика расчетная таблица Excel
 
 
 ## Масштабирование гибких подходов
