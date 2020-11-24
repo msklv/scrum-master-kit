@@ -52,7 +52,7 @@
  * `~` [hadi-Цикл.png](docs/hadi-Цикл.png) - HADI Цикл
  * `~` [Cynefin_Fraemwork.jpg](docs/Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
  * `~` [Good_MVP.jpg](docs/Good_MVP.jpg) - Good_MVP
- * [Unit -economics-map-Digital-October.pdf](pdf/Unit -economics-map-Digital-October.pdf) -  Unit экономика
+ * [Unit-economics-map-Digital-October.pdf](pdf/Unit-economics-map-Digital-October.pdf) -  Unit экономика
  * [Calc-Unit-Economics.xlsx](excel/Calc-Unit-Economics.xlsx) - Unit экономика расчетная таблица Excel
 
 
