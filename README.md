@@ -82,8 +82,10 @@
 ## Проверка знаний 
  * [questions-at-PM-interviews.md](docs/questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
 
-## Неплохая подборка материалов в GIT формате
-https://github.com/lorabv/awesome-agile
+
+## Неплохие подборки материалов в GIT формате
+ * https://github.com/lorabv/awesome-agile
+ * https://github.com/mariuszgil/awesome-eventstorming
 
 
 
