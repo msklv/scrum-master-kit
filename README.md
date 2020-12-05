@@ -6,6 +6,7 @@
 
 ## Telegram канал [Agile🚀Dev](https://t.me/agile4dev)
 
+## Мой блог о Agile подходах и менежменте [msklv.medium.com](https://msklv.medium.com/)
 
 ## Этапы Жизненного Пути Продукта и Инструменты
 ![ProductLifeCycleAddTools](docs/ProductLifeCycleAddTools.jpg)
