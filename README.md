@@ -14,7 +14,7 @@
  * [scrum-poster_preview.jpg](docs/scrum-poster_preview.jpg)  - Поcтер про SCRUM
  * [scrum-daily-meeting.md](docs/scrum-daily-meeting.md) - Ежедневный Скрам (Scrum Daily Meeting)
  * [Scrum-checker.xlsx](excel/Scrum-checker.xlsx) - Scrum-checker
- * `+` Burn Down Chart 
+ * [BurnDown Chart](https://msklv.medium.com/burndown-chart-d46a3747834e) - Диаграмма сгорания (Burndown Chart)
  
  
 
