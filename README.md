@@ -31,6 +31,8 @@
 * [smart.md](docs/smart.md) - Что такое Smart задачи
 * [ОтличияScrumKanban.jpg](docs/ОличияScrumKanban.jpg) - Отличия Scrum и Kanban
 
+## Интументы фасилитации
+![Интументы фасилитации](docs/scrum-master-kit-fa.jpg)
 
 ## Материалы по Фасилитации и Коучингу 
  * [InterventionCycle.MD](docs/InterventionCycle.MD) - Цикл вмешательства в конфликтную ситуацию
@@ -48,6 +50,7 @@
  * `+` CI\CD
  * `+` Git 
  * `+` DevOps, DevSecOps
+ * [Developer-Velocity-46-drivers.jpg](docs/Developer-Velocity-46-drivers.jpg) - Направления улучшения производительности девелоперов (Developer Velocity Drivers)
 
 
 ## Материалы по Бизнес практикам 
@@ -74,9 +77,6 @@
  * [Кейс 1](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-1-erp-%D0%B4%D0%BB%D1%8F-%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D0%B0-416d0fb45fb) - ERP для Трейдера (Waterfall)
  * [Кейс 2](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-2-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-89d95e761529) - Портал-маркетплейс для муниципальной компании (ScrumNO)
 
-
-## Производительность разработчиков (Developer Velocity) включает 46 различных драйверов в 13 измерениях.
-![Developer-Velocity-46-drivers.jpg](docs/Developer-Velocity-46-drivers.jpg)
 
 
 ## Уровень зрелости Developer Velocity (DV) широко варьируется в зависимости от отрасли
