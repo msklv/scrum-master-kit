@@ -16,9 +16,9 @@
  * [2017-Scrum-Guide-Russian.pdf](pdf/2017-Scrum-Guide-Russian.pdf) - SCRUM Book 2017
  * [2020-Scrum-Guide-Russian.pdf](pdf/2020-Scrum-Guide-Russian.pdf) - SCRUM Book 2020
  * [scrum-poster_preview.jpg](docs/scrum-poster_preview.jpg)  - Поcтер про SCRUM
- * [scrum-daily-meeting.md](docs/scrum-daily-meeting.md) - Ежедневный Скрам (Scrum Daily Meeting)
+ * [Medium - Ежедневный Скрам (Daily Scrum) по Scrum Guide 2020](https://msklv.medium.com/%D0%B5%D0%B6%D0%B5%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%BA%D1%80%D0%B0%D0%BC-daily-scrum-%D0%BF%D0%BE-scrum-guide-2020-1c8f54ed66cd)
  * [Scrum-checker.xlsx](excel/Scrum-checker.xlsx) - Scrum-checker
- * [BurnDown Chart](https://msklv.medium.com/burndown-chart-d46a3747834e) - Диаграмма сгорания (Burndown Chart)
+ * [Medium - Диаграмма сгорания (Burndown Chart) и ее вариации](https://msklv.medium.com/burndown-chart-d46a3747834e)
  
  
 
@@ -27,7 +27,7 @@
 * [agile-product-ownership-poster.pdf](pdf/agile-product-ownership-poster.pdf) - постер Гибкое управление продуктом
 * [agilemanifesto.md](docs/agilemanifesto.md) - Agile-манифест разработки программного обеспечения
 * [DEEPPacklog.MD](docs/DEEPPacklog.MD) - Что такое DEEP беклог?
-* [INVEST-UserStory.md](docs/INVEST-UserStory.md) - INVEST критерии хорошей User Story
+* [Medium - INVEST критерии хорошей User Story](https://msklv.medium.com/invest-user-story-8c200266a3d7) 
 * [smart.md](docs/smart.md) - Что такое Smart задачи
 * [ОтличияScrumKanban.jpg](docs/ОличияScrumKanban.jpg) - Отличия Scrum и Kanban
 
@@ -39,8 +39,8 @@
  * [Zuzana_Shokhova_fraemwork.png](docs/Zuzana_Shokhova_fraemwork.png) - Zuzana Shokhova fraemwork 
  * [Agile-Coach-Competency-Framework.jpg](docs/Agile-Coach-Competency-Framework.jpg) - Agile Coach Competency Framework
  * [Facilitation-Tools.pdf](pdf/Facilitation-Tools.pdf) - Инструменты  фасилитации
- * `+` Kick-off - последовательность мероприятий по запуску работы команды
- * [Checklist-for-launch-team.md](docs/Checklist-for-launch-team.md) - Чек-лист запуска Agile команды в большой компании
+ * [Medium - Kick-off — последовательность мероприятий по переформатированию работы команды по Agile внутри большой компании.](https://msklv.medium.com/kick-off-%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B9-%D0%BF%D0%BE-%D0%BF%D0%B5%D1%80%D0%B5%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-%D0%BF%D0%BE-agile-%D0%B2%D0%BD%D1%83%D1%82%D1%80%D0%B8-d5b1e3a351e4)
+ * [Medium - Чек-лист проверки запуска команды по Agile в большой компании](https://msklv.medium.com/%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82-%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8-%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B-%D0%BF%D0%BE-agile-%D0%B2-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-a4de0fd34ae3) 
  * [score5teamfaults.md](docs/score5teamfaults.md) - Оценка 5 пороков команды 
 
 
@@ -51,12 +51,12 @@
  * `+` Git 
  * `+` DevOps, DevSecOps
  * [Developer-Velocity-46-drivers.jpg](docs/Developer-Velocity-46-drivers.jpg) - Направления улучшения производительности девелоперов (Developer Velocity Drivers)
+ * [Medium - Postmortem Report зачем нужен и как составлять](https://msklv.medium.com/postmortem-report-%D0%B7%D0%B0%D1%87%D0%B5%D0%BC-%D0%BD%D1%83%D0%B6%D0%B5%D0%BD-%D0%B8-%D0%BA%D0%B0%D0%BA-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D1%8F%D1%82%D1%8C-587faefd9f7f) - Postmortem Report зачем нужен и как составлять
 
 
 ## Материалы по Бизнес практикам 
  * [ValuePropositionCanvas.png](docs/ValuePropositionCanvas.png) - Шаблон ценностного предложения
  * [lean-canvas-rus.jpg](docs/lean-canvas-rus.jpg) - Бережливый шаблон бизнес модели
- * [okr.md](docs/okr.md) - Суть методики OKR
  * `~` [hadi-Цикл.png](docs/hadi-Цикл.png) - HADI Цикл
  * `~` [Cynefin_Fraemwork.jpg](docs/Cynefin_Fraemwork.jpg) - Cynefin Fraemwork
  * `~` [Good_MVP.jpg](docs/Good_MVP.jpg) - Good_MVP
@@ -68,14 +68,15 @@
  * `+` SAFe
  * `+` LeSS 
  * `+` Scrum@Scale
- * [okr.md](docs/okr.md) - Постановка целей по OKR
+ * [Medium - Суть методики OKR](https://msklv.medium.com/%D1%81%D1%83%D1%82%D1%8C-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B8-okr-ef91d7505f49) - Суть методики OKR
 
 
 
 ## Практика
  * [questions-at-PM-interviews.md](docs/questions-at-PM-interviews.md) - Вопросы на ПМ собеседованиях - интересно из точки зрения как Scrum master может помочь PO\PM
- * [Кейс 1](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-1-erp-%D0%B4%D0%BB%D1%8F-%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D0%B0-416d0fb45fb) - ERP для Трейдера (Waterfall)
- * [Кейс 2](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-2-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-89d95e761529) - Портал-маркетплейс для муниципальной компании (ScrumNO)
+ * [Medium - Кейс 1](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-1-erp-%D0%B4%D0%BB%D1%8F-%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B5%D1%80%D0%B0-416d0fb45fb) - ERP для Трейдера (Waterfall)
+ * [Medium - Кейс 2](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-2-%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%BB-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%BF%D0%BB%D0%B5%D0%B9%D1%81-%D0%B4%D0%BB%D1%8F-%D0%BC%D1%83%D0%BD%D0%B8%D1%86%D0%B8%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-89d95e761529) - Портал-маркетплейс для муниципальной компании (ScrumNO)
+ * [Medium - Кейс 3 ](https://msklv.medium.com/%D0%BA%D0%B5%D0%B9%D1%81-3-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4-%D0%BD%D0%B0-eu-%D1%80%D1%8B%D0%BD%D0%BE%D0%BA-%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D0%BE%D1%80%D1%83%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D0%B4-%D1%81%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC-%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%BE%D0%BC-df270e4005f6) -  Вывод на EU рынок теплотехническое оборудование под собственным брендом
 
 
 
